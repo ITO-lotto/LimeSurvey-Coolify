@@ -38,7 +38,7 @@
 		}
 	},
 	"require": {
-		"php": "^7.4 || ^8.0"
+		"php": "^7.4 || ^8.0",
         	"paragonie/sodium_compat": "^1.14",
 		"twig/twig": "^3.0",
 		"phpseclib/bcmath_compat": "^2.0",
